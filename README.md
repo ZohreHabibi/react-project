@@ -1,4 +1,4 @@
-# Simple React
+# React Project
 
 Sample React.js application for the Docker environment.
 
@@ -27,36 +27,6 @@ docker run -p 80:80 docker-reactjs
 
 ```
 Go to [http://localhost](http://localhost)
-
-## Running the tests
-
-TBD
-
-### Break down into end to end tests
-
-TBD
-
-### And coding style tests
-
-TBD
-
-
-## Built With
-
-* [Nginx](https://nginx.org/en/) - Web server
-* [React.js](https://reactjs.org/) - The front-end framework used
-* [Docker](https://www.docker.com/) - Containerization
-* [Materialize](https://materializecss.com/) - Front-end framework
-
-
-## Authors
-
-* **Jungwon Seo** - *Initial work* - [thejungwon](https://github.com/thejungwon)
-
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
 
 
 
